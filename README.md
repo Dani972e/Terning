@@ -22,8 +22,8 @@ BugFixes: I denne branch, uploader vi selv samme program, hvor alle bugs er fixe
 
 Gruppenummer: 40
 
-Daniel Anusic (s155005) https://github.com/iyyel
+Daniel Anusic (s155005) https://github.com/Dani972e
 
-Daniel Larsen (s151641) https://github.com/Dani972e
+Daniel Larsen (s151641) https://github.com/iyyel
 
 Peter El-Habr (s165202) https://github.com/PeterEdtu
