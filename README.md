@@ -15,7 +15,7 @@ BugFixes: I denne branch, uploader vi selv samme program, hvor alle bugs er fixe
 
 2) The program rolls the dice with the real input value (number of times)
 
-3) The dice is now symetric
+3) The dice is now symemtric
 
 
 # Information
