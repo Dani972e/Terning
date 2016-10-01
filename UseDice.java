@@ -22,18 +22,20 @@ public class UseDice {
 
 	public static void main(String[] args) {
 		Dice cup = new Dice();   // Make an instance of Dice
-		while(true){
-			try{
+		while (true) {
+			try {
 				Scanner keyboard=new Scanner(System.in);   // Make an instance of keyboard Scanner
 				System.out.println("Welcome to the diceroll program");
 				System.out.println("How many times do you want to roll the dice?");
 
-				int n = keyboard.nextInt();  // Read integer
-				if (n>0){
+				int n = keyboard.nextInt();          // Read integer
+				if (n>0) {
 					cup.rollMultiple(n);         // Roll the dice n times
 					keyboard.close();            // Close the scanner
 					break;
-				}else System.out.println("The number must be >0");
+				} else {
+					System.out.println("The number must be >0");
+				}
 			}catch(Exception error){
 				System.out.println("Error: "+error);
 				System.out.println("The number must be a int");
