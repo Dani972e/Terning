@@ -2,7 +2,7 @@
 
 Vi har to branches i dette repository. Den ene er master og den anden er BugFixes. 
 
-master: Her har vi det originale terning-program, hvor der ikke er fikset nogle bugs. Her bliver der uploaded en JUnit test.
+master: Her har vi det originale terning-program, hvor der ikke er fikset nogle bugs. Her bliver der uploaded en JUnit test, og til sidst bliver de to branches merged sammen.
 
 BugFixes: I denne branch, uploader vi selv samme program, hvor alle bugs er fixed.
 
